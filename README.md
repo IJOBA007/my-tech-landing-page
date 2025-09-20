@@ -6,9 +6,14 @@ The site also has a working **contact form** powered by Formspree for direct com
 
 ---
 
+## 🌐 Live Demo  
+👉 [View Live Here](https://IJOBA007.github.io/my-tech-landing-page/)  
+
+---
+
 ## 📂 Project Files  
 
-- **index2.html** → Main HTML file that structures the webpage (logo, navbar, sections, video, and contact form).  
+- **index.html** → Main HTML file that structures the webpage (logo, navbar, sections, video, and contact form).  
 - **style.css** → Handles all the styling (colors, layout, fonts, responsiveness).  
 - **script.js** → Adds interactivity and makes the page lively with JavaScript.  
 - **Code with Ijoba Logo.png** (or `logo.png`) → The branding image/logo displayed in the header.  
@@ -34,11 +39,4 @@ The site also has a working **contact form** powered by Formspree for direct com
 
 ## 🎯 How to Run  
 1. Clone or download the project files.  
-2. Make sure the logo image (`logo.png`) is in the same folder as `index2.html`.  
-3. Open `index2.html` in any browser to view the site.  
-4. Test the contact form (Formspree will handle submissions).  
-
----
-
-## ✨ Author  
-**Ijoba** – coding my way through the web one project at a time 🚀  
+2. Make sure the logo image (`logo.png`) is in the same folder as `index.html`.  
