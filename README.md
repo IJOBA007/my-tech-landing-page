@@ -1,4 +1,4 @@
-# Code with Ijoba - Portfolio Website  
+# Code with Ijoba - Tech Landing Page  
 
 **Code with Ijoba** is a personal portfolio project built with HTML, CSS, and JavaScript.  
 It showcases my brand, includes interactive elements, and features an embedded video.  
